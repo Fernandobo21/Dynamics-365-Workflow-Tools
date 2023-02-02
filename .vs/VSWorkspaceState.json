@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\msdyncrmWorkflowTools",
+    "\\msdyncrmWorkflowTools\\msdyncrmCustomApiTools",
+    "\\msdyncrmWorkflowTools\\msdyncrmCustomApiTools\\ClassLibrary1",
+    "\\msdyncrmWorkflowTools\\msdyncrmWorkflowTools"
   ],
+  "SelectedNode": "\\msdyncrmWorkflowTools\\msdyncrmCustomApiTools\\ClassLibrary1",
   "PreviewInSolutionExplorer": false
 }
