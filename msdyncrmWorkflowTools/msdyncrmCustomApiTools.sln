@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "msdyncrmCustomApiTools\ClassLibrary1.csproj", "{78149F3A-9C83-47C6-B4A9-0C02ADB78403}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "msdyncrmCustomAPITools", "msdyncrmCustomApiTools\msdyncrmCustomAPITools.csproj", "{78149F3A-9C83-47C6-B4A9-0C02ADB78403}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
